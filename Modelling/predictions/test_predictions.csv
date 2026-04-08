@@ -44,7 +44,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 28323092,0,Not Cancelled
 86372652,0,Not Cancelled
 19585428,0,Not Cancelled
-42025914,1,Cancelled
+42025914,0,Not Cancelled
 85872241,0,Not Cancelled
 16826564,0,Not Cancelled
 80812644,0,Not Cancelled
@@ -56,21 +56,21 @@ Reservation-id,Predicted_Status,Predicted_Label
 75655661,0,Not Cancelled
 41754532,0,Not Cancelled
 87457897,0,Not Cancelled
-33332229,0,Not Cancelled
+33332229,1,Cancelled
 43160739,0,Not Cancelled
 76748822,0,Not Cancelled
 35120015,0,Not Cancelled
 40281701,0,Not Cancelled
 27470890,0,Not Cancelled
 18603967,0,Not Cancelled
-65425620,0,Not Cancelled
+65425620,1,Cancelled
 42460243,0,Not Cancelled
 2260132,0,Not Cancelled
 20252884,0,Not Cancelled
 15834405,0,Not Cancelled
 90882609,0,Not Cancelled
 76274266,0,Not Cancelled
-13465422,1,Cancelled
+13465422,0,Not Cancelled
 4154680,0,Not Cancelled
 4039529,0,Not Cancelled
 6464114,0,Not Cancelled
@@ -82,7 +82,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 69167054,0,Not Cancelled
 46999433,0,Not Cancelled
 23730056,0,Not Cancelled
-65593958,0,Not Cancelled
+65593958,1,Cancelled
 1794817,0,Not Cancelled
 568595,0,Not Cancelled
 25540175,0,Not Cancelled
@@ -227,7 +227,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 88020741,0,Not Cancelled
 56480485,0,Not Cancelled
 36492621,0,Not Cancelled
-72255960,0,Not Cancelled
+72255960,1,Cancelled
 96786267,0,Not Cancelled
 36743163,0,Not Cancelled
 61808366,0,Not Cancelled
@@ -282,8 +282,8 @@ Reservation-id,Predicted_Status,Predicted_Label
 28515154,0,Not Cancelled
 50675442,0,Not Cancelled
 53261183,0,Not Cancelled
-62286239,1,Cancelled
-6723048,0,Not Cancelled
+62286239,0,Not Cancelled
+6723048,1,Cancelled
 11135004,0,Not Cancelled
 93506333,0,Not Cancelled
 12386368,0,Not Cancelled
@@ -339,7 +339,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 34146657,0,Not Cancelled
 44442423,0,Not Cancelled
 61735297,0,Not Cancelled
-16238707,0,Not Cancelled
+16238707,1,Cancelled
 98540026,0,Not Cancelled
 16232630,0,Not Cancelled
 88794796,0,Not Cancelled
@@ -404,15 +404,15 @@ Reservation-id,Predicted_Status,Predicted_Label
 65751836,0,Not Cancelled
 78283725,0,Not Cancelled
 68656076,0,Not Cancelled
-34125677,1,Cancelled
+34125677,0,Not Cancelled
 29373913,0,Not Cancelled
 32247205,0,Not Cancelled
 70741695,0,Not Cancelled
-74248187,0,Not Cancelled
+74248187,2,No-Show
 92259027,0,Not Cancelled
 3596204,0,Not Cancelled
 23506394,0,Not Cancelled
-65045531,1,Cancelled
+65045531,0,Not Cancelled
 98577176,0,Not Cancelled
 59986478,0,Not Cancelled
 94955605,0,Not Cancelled
@@ -428,7 +428,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 34300225,0,Not Cancelled
 46903391,0,Not Cancelled
 80155697,0,Not Cancelled
-27662142,0,Not Cancelled
+27662142,1,Cancelled
 6222390,0,Not Cancelled
 85524525,0,Not Cancelled
 37480007,0,Not Cancelled
@@ -493,7 +493,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 84263576,0,Not Cancelled
 12584187,0,Not Cancelled
 11256358,0,Not Cancelled
-9122782,1,Cancelled
+9122782,0,Not Cancelled
 43778704,1,Cancelled
 17470915,0,Not Cancelled
 65940919,0,Not Cancelled
@@ -522,7 +522,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 74097915,0,Not Cancelled
 72961577,0,Not Cancelled
 9406065,0,Not Cancelled
-31712999,0,Not Cancelled
+31712999,2,No-Show
 772477,0,Not Cancelled
 40876045,0,Not Cancelled
 15525680,0,Not Cancelled
@@ -533,7 +533,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 78783753,0,Not Cancelled
 36118674,0,Not Cancelled
 16034345,0,Not Cancelled
-95411958,0,Not Cancelled
+95411958,2,No-Show
 65283644,0,Not Cancelled
 65974018,0,Not Cancelled
 97308841,0,Not Cancelled
@@ -548,14 +548,14 @@ Reservation-id,Predicted_Status,Predicted_Label
 94519587,0,Not Cancelled
 79663212,0,Not Cancelled
 54828270,0,Not Cancelled
-74811794,2,No-Show
+74811794,0,Not Cancelled
 83345601,0,Not Cancelled
 56570387,0,Not Cancelled
 95026867,0,Not Cancelled
 51381402,0,Not Cancelled
 58074618,0,Not Cancelled
-45015777,1,Cancelled
-20609696,1,Cancelled
+45015777,0,Not Cancelled
+20609696,0,Not Cancelled
 53246505,0,Not Cancelled
 17367864,0,Not Cancelled
 78968593,0,Not Cancelled
@@ -565,7 +565,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 91920213,0,Not Cancelled
 20137143,0,Not Cancelled
 32345779,0,Not Cancelled
-34956784,1,Cancelled
+34956784,0,Not Cancelled
 73216190,0,Not Cancelled
 81278503,0,Not Cancelled
 76449258,0,Not Cancelled
@@ -615,7 +615,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 74623799,0,Not Cancelled
 45329763,0,Not Cancelled
 40057073,0,Not Cancelled
-98869764,2,No-Show
+98869764,0,Not Cancelled
 63689535,0,Not Cancelled
 40679347,0,Not Cancelled
 10231015,0,Not Cancelled
@@ -623,7 +623,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 84146039,0,Not Cancelled
 58162426,0,Not Cancelled
 72961971,0,Not Cancelled
-89192605,0,Not Cancelled
+89192605,1,Cancelled
 29711403,0,Not Cancelled
 38619269,0,Not Cancelled
 18739601,0,Not Cancelled
@@ -669,7 +669,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 64301770,0,Not Cancelled
 75984731,0,Not Cancelled
 71615098,0,Not Cancelled
-82440114,0,Not Cancelled
+82440114,1,Cancelled
 3633598,0,Not Cancelled
 28676460,0,Not Cancelled
 25997925,0,Not Cancelled
@@ -701,7 +701,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 29163663,0,Not Cancelled
 24744742,0,Not Cancelled
 99742323,0,Not Cancelled
-3494637,0,Not Cancelled
+3494637,2,No-Show
 46430910,0,Not Cancelled
 87687863,0,Not Cancelled
 36272486,0,Not Cancelled
@@ -731,12 +731,12 @@ Reservation-id,Predicted_Status,Predicted_Label
 90953434,0,Not Cancelled
 60335743,0,Not Cancelled
 78402237,0,Not Cancelled
-47994902,0,Not Cancelled
+47994902,1,Cancelled
 15981661,0,Not Cancelled
 93844687,0,Not Cancelled
 84852694,0,Not Cancelled
-48273730,1,Cancelled
-64483572,0,Not Cancelled
+48273730,0,Not Cancelled
+64483572,1,Cancelled
 57590463,0,Not Cancelled
 2516360,0,Not Cancelled
 16393790,0,Not Cancelled
@@ -769,8 +769,8 @@ Reservation-id,Predicted_Status,Predicted_Label
 32202952,0,Not Cancelled
 38282132,0,Not Cancelled
 78657053,0,Not Cancelled
-73222811,0,Not Cancelled
-91388609,1,Cancelled
+73222811,1,Cancelled
+91388609,0,Not Cancelled
 83226738,0,Not Cancelled
 32597237,0,Not Cancelled
 77491577,0,Not Cancelled
@@ -787,10 +787,10 @@ Reservation-id,Predicted_Status,Predicted_Label
 12870914,0,Not Cancelled
 38688367,0,Not Cancelled
 51572415,0,Not Cancelled
-61096650,0,Not Cancelled
+61096650,1,Cancelled
 84100297,0,Not Cancelled
 66660796,0,Not Cancelled
-82925803,1,Cancelled
+82925803,0,Not Cancelled
 49009601,0,Not Cancelled
 80720138,0,Not Cancelled
 82681968,0,Not Cancelled
@@ -853,7 +853,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 68422365,0,Not Cancelled
 86629674,0,Not Cancelled
 33621396,0,Not Cancelled
-53001947,0,Not Cancelled
+53001947,2,No-Show
 99468721,0,Not Cancelled
 13977094,0,Not Cancelled
 97698460,0,Not Cancelled
@@ -939,8 +939,8 @@ Reservation-id,Predicted_Status,Predicted_Label
 10459657,0,Not Cancelled
 69510797,1,Cancelled
 61443270,1,Cancelled
-47713030,1,Cancelled
-61438557,0,Not Cancelled
+47713030,0,Not Cancelled
+61438557,1,Cancelled
 39523483,0,Not Cancelled
 60959311,0,Not Cancelled
 68800796,0,Not Cancelled
@@ -948,7 +948,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 3141740,0,Not Cancelled
 44778691,0,Not Cancelled
 40673727,0,Not Cancelled
-86740083,2,No-Show
+86740083,0,Not Cancelled
 45058735,0,Not Cancelled
 50054962,0,Not Cancelled
 66661559,0,Not Cancelled
@@ -983,7 +983,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 64788698,0,Not Cancelled
 12960669,0,Not Cancelled
 11787022,0,Not Cancelled
-34818088,0,Not Cancelled
+34818088,1,Cancelled
 67165469,0,Not Cancelled
 67459890,0,Not Cancelled
 65155373,0,Not Cancelled
@@ -1011,12 +1011,12 @@ Reservation-id,Predicted_Status,Predicted_Label
 6830595,0,Not Cancelled
 19915866,0,Not Cancelled
 41278258,0,Not Cancelled
-80670693,0,Not Cancelled
+80670693,1,Cancelled
 75433844,0,Not Cancelled
 4318167,0,Not Cancelled
 25692244,0,Not Cancelled
 56763048,0,Not Cancelled
-94230735,1,Cancelled
+94230735,0,Not Cancelled
 18759065,0,Not Cancelled
 39385054,0,Not Cancelled
 39295632,0,Not Cancelled
@@ -1025,14 +1025,14 @@ Reservation-id,Predicted_Status,Predicted_Label
 33218331,0,Not Cancelled
 77697751,0,Not Cancelled
 52593494,0,Not Cancelled
-72754167,0,Not Cancelled
+72754167,1,Cancelled
 29525359,0,Not Cancelled
 87476952,0,Not Cancelled
 59685178,0,Not Cancelled
 81641413,0,Not Cancelled
 79100181,0,Not Cancelled
 95245839,0,Not Cancelled
-22640274,1,Cancelled
+22640274,0,Not Cancelled
 46795646,0,Not Cancelled
 68422702,0,Not Cancelled
 97204913,0,Not Cancelled
@@ -1080,7 +1080,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 97569024,0,Not Cancelled
 31790666,0,Not Cancelled
 96561506,0,Not Cancelled
-70812048,1,Cancelled
+70812048,0,Not Cancelled
 70771145,0,Not Cancelled
 85065167,0,Not Cancelled
 58312846,0,Not Cancelled
@@ -1093,7 +1093,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 18609405,0,Not Cancelled
 70536512,0,Not Cancelled
 48723766,0,Not Cancelled
-71682104,0,Not Cancelled
+71682104,1,Cancelled
 84472884,0,Not Cancelled
 94540524,0,Not Cancelled
 20081672,0,Not Cancelled
@@ -1210,7 +1210,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 49442899,0,Not Cancelled
 52865393,0,Not Cancelled
 26100559,0,Not Cancelled
-98967268,2,No-Show
+98967268,0,Not Cancelled
 33902173,0,Not Cancelled
 51494485,0,Not Cancelled
 12503686,0,Not Cancelled
@@ -1265,7 +1265,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 32894739,0,Not Cancelled
 11831033,0,Not Cancelled
 9536552,0,Not Cancelled
-65456983,0,Not Cancelled
+65456983,1,Cancelled
 77304094,0,Not Cancelled
 51453126,0,Not Cancelled
 89330598,0,Not Cancelled
@@ -1274,7 +1274,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 18858868,0,Not Cancelled
 59430808,0,Not Cancelled
 43117469,0,Not Cancelled
-53807169,0,Not Cancelled
+53807169,1,Cancelled
 23758133,0,Not Cancelled
 56271369,0,Not Cancelled
 75383675,0,Not Cancelled
@@ -1293,7 +1293,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 86429823,0,Not Cancelled
 33147964,0,Not Cancelled
 81894339,0,Not Cancelled
-51268497,0,Not Cancelled
+51268497,1,Cancelled
 1387022,0,Not Cancelled
 93019323,0,Not Cancelled
 97808763,0,Not Cancelled
@@ -1330,21 +1330,21 @@ Reservation-id,Predicted_Status,Predicted_Label
 6724635,0,Not Cancelled
 2241902,0,Not Cancelled
 86151761,0,Not Cancelled
-80147569,1,Cancelled
+80147569,0,Not Cancelled
 7101365,0,Not Cancelled
 44511291,0,Not Cancelled
 88079653,0,Not Cancelled
-52865260,0,Not Cancelled
+52865260,1,Cancelled
 33218313,0,Not Cancelled
 34824911,0,Not Cancelled
 58810231,0,Not Cancelled
 58130671,0,Not Cancelled
 85207721,0,Not Cancelled
-93964114,0,Not Cancelled
+93964114,1,Cancelled
 59789215,0,Not Cancelled
 4649037,0,Not Cancelled
 58358126,0,Not Cancelled
-4650785,0,Not Cancelled
+4650785,1,Cancelled
 44716312,0,Not Cancelled
 43314265,0,Not Cancelled
 12961368,0,Not Cancelled
@@ -1472,7 +1472,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 57085019,0,Not Cancelled
 38696010,0,Not Cancelled
 2798037,0,Not Cancelled
-54374290,1,Cancelled
+54374290,0,Not Cancelled
 37171306,0,Not Cancelled
 27965213,0,Not Cancelled
 536219,0,Not Cancelled
@@ -1493,7 +1493,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 64805405,0,Not Cancelled
 13543115,0,Not Cancelled
 6450455,0,Not Cancelled
-71846898,0,Not Cancelled
+71846898,1,Cancelled
 25442004,0,Not Cancelled
 46009929,0,Not Cancelled
 99982225,0,Not Cancelled
@@ -1574,7 +1574,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 18063859,0,Not Cancelled
 48947279,0,Not Cancelled
 73170938,0,Not Cancelled
-35679838,0,Not Cancelled
+35679838,1,Cancelled
 38262540,0,Not Cancelled
 22808223,0,Not Cancelled
 54960834,0,Not Cancelled
@@ -1583,23 +1583,23 @@ Reservation-id,Predicted_Status,Predicted_Label
 35364024,0,Not Cancelled
 82832190,0,Not Cancelled
 5851697,0,Not Cancelled
-83584833,0,Not Cancelled
+83584833,1,Cancelled
 71309814,0,Not Cancelled
 63792048,0,Not Cancelled
 21168262,0,Not Cancelled
 55655549,0,Not Cancelled
 91294583,0,Not Cancelled
-65487723,0,Not Cancelled
+65487723,1,Cancelled
 85150317,0,Not Cancelled
 37320281,1,Cancelled
 69474947,0,Not Cancelled
-78619486,0,Not Cancelled
+78619486,1,Cancelled
 85348285,0,Not Cancelled
 14680676,0,Not Cancelled
 63111394,0,Not Cancelled
 76479422,0,Not Cancelled
 31645350,0,Not Cancelled
-78326224,0,Not Cancelled
+78326224,1,Cancelled
 90661793,0,Not Cancelled
 25838820,0,Not Cancelled
 98918449,0,Not Cancelled
@@ -1610,7 +1610,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 48860043,0,Not Cancelled
 30125722,0,Not Cancelled
 5207284,0,Not Cancelled
-76354945,0,Not Cancelled
+76354945,1,Cancelled
 78016591,0,Not Cancelled
 47661716,0,Not Cancelled
 66083124,0,Not Cancelled
@@ -1656,7 +1656,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 87646214,0,Not Cancelled
 95376728,0,Not Cancelled
 37469563,0,Not Cancelled
-37633288,0,Not Cancelled
+37633288,1,Cancelled
 18228713,0,Not Cancelled
 55647895,0,Not Cancelled
 38157546,0,Not Cancelled
@@ -1724,7 +1724,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 1623211,0,Not Cancelled
 30332079,0,Not Cancelled
 79247958,0,Not Cancelled
-6146859,0,Not Cancelled
+6146859,1,Cancelled
 87000052,0,Not Cancelled
 76695249,0,Not Cancelled
 29713558,0,Not Cancelled
@@ -1746,7 +1746,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 85685705,0,Not Cancelled
 32601571,0,Not Cancelled
 82920139,0,Not Cancelled
-71071216,0,Not Cancelled
+71071216,1,Cancelled
 31439444,0,Not Cancelled
 71728834,0,Not Cancelled
 67895136,0,Not Cancelled
@@ -1773,7 +1773,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 31978954,0,Not Cancelled
 92943593,0,Not Cancelled
 77390700,0,Not Cancelled
-79076594,0,Not Cancelled
+79076594,1,Cancelled
 8334519,0,Not Cancelled
 81577179,0,Not Cancelled
 8584289,0,Not Cancelled
@@ -1826,7 +1826,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 55295718,0,Not Cancelled
 26941717,0,Not Cancelled
 16214362,0,Not Cancelled
-48306430,0,Not Cancelled
+48306430,2,No-Show
 66830972,0,Not Cancelled
 65237582,0,Not Cancelled
 61940550,0,Not Cancelled
@@ -1867,7 +1867,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 92341843,0,Not Cancelled
 38093978,0,Not Cancelled
 24552370,0,Not Cancelled
-83651671,0,Not Cancelled
+83651671,1,Cancelled
 13648146,0,Not Cancelled
 7952936,0,Not Cancelled
 90405063,0,Not Cancelled
@@ -1931,7 +1931,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 90964626,0,Not Cancelled
 85846294,0,Not Cancelled
 14411182,0,Not Cancelled
-43504013,0,Not Cancelled
+43504013,1,Cancelled
 67541827,0,Not Cancelled
 76235501,0,Not Cancelled
 60141508,0,Not Cancelled
@@ -2025,7 +2025,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 39614885,0,Not Cancelled
 74112796,0,Not Cancelled
 99961316,0,Not Cancelled
-25328768,0,Not Cancelled
+25328768,1,Cancelled
 74919823,0,Not Cancelled
 14077765,0,Not Cancelled
 66663224,0,Not Cancelled
@@ -2034,8 +2034,8 @@ Reservation-id,Predicted_Status,Predicted_Label
 55834534,0,Not Cancelled
 21059575,0,Not Cancelled
 39641094,0,Not Cancelled
-91483981,1,Cancelled
-95837906,0,Not Cancelled
+91483981,0,Not Cancelled
+95837906,1,Cancelled
 99115384,0,Not Cancelled
 2807494,0,Not Cancelled
 24671722,0,Not Cancelled
@@ -2118,7 +2118,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 50189940,0,Not Cancelled
 56602311,0,Not Cancelled
 48354691,0,Not Cancelled
-33053560,0,Not Cancelled
+33053560,1,Cancelled
 83915119,0,Not Cancelled
 36945931,0,Not Cancelled
 88936756,0,Not Cancelled
@@ -2175,7 +2175,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 11012785,0,Not Cancelled
 55035543,0,Not Cancelled
 90972458,0,Not Cancelled
-58635173,0,Not Cancelled
+58635173,1,Cancelled
 6761650,0,Not Cancelled
 38171346,0,Not Cancelled
 33900019,0,Not Cancelled
@@ -2207,10 +2207,10 @@ Reservation-id,Predicted_Status,Predicted_Label
 41132575,0,Not Cancelled
 74359998,0,Not Cancelled
 54053297,0,Not Cancelled
-3875231,0,Not Cancelled
+3875231,1,Cancelled
 96304410,0,Not Cancelled
-6448686,0,Not Cancelled
-42094348,0,Not Cancelled
+6448686,1,Cancelled
+42094348,1,Cancelled
 82163596,0,Not Cancelled
 6520839,0,Not Cancelled
 54519834,0,Not Cancelled
@@ -2223,7 +2223,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 21160037,0,Not Cancelled
 91041527,0,Not Cancelled
 20233226,0,Not Cancelled
-60145766,0,Not Cancelled
+60145766,1,Cancelled
 70410069,0,Not Cancelled
 45235935,0,Not Cancelled
 67835297,0,Not Cancelled
@@ -2233,7 +2233,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 99133983,0,Not Cancelled
 28951321,0,Not Cancelled
 69156739,0,Not Cancelled
-15507498,1,Cancelled
+15507498,0,Not Cancelled
 76547659,0,Not Cancelled
 96357259,0,Not Cancelled
 99559083,0,Not Cancelled
@@ -2262,9 +2262,9 @@ Reservation-id,Predicted_Status,Predicted_Label
 28127237,0,Not Cancelled
 94622531,0,Not Cancelled
 8278097,0,Not Cancelled
-29401477,0,Not Cancelled
+29401477,1,Cancelled
 71789602,0,Not Cancelled
-50482646,0,Not Cancelled
+50482646,1,Cancelled
 16482466,0,Not Cancelled
 58855971,0,Not Cancelled
 44548213,0,Not Cancelled
@@ -2272,7 +2272,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 40806438,0,Not Cancelled
 57225981,0,Not Cancelled
 47419937,0,Not Cancelled
-20930826,0,Not Cancelled
+20930826,1,Cancelled
 28640493,0,Not Cancelled
 63284313,0,Not Cancelled
 34084210,0,Not Cancelled
@@ -2368,7 +2368,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 45713644,0,Not Cancelled
 49937267,0,Not Cancelled
 78411646,0,Not Cancelled
-72897675,0,Not Cancelled
+72897675,1,Cancelled
 33842057,0,Not Cancelled
 12702180,0,Not Cancelled
 38717177,0,Not Cancelled
@@ -2393,7 +2393,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 54804465,0,Not Cancelled
 73843827,0,Not Cancelled
 54150702,0,Not Cancelled
-98786540,0,Not Cancelled
+98786540,1,Cancelled
 11766725,0,Not Cancelled
 77808399,0,Not Cancelled
 65907427,0,Not Cancelled
@@ -2406,7 +2406,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 96392114,0,Not Cancelled
 70232648,0,Not Cancelled
 75735531,0,Not Cancelled
-69175215,0,Not Cancelled
+69175215,1,Cancelled
 47877428,0,Not Cancelled
 30357650,0,Not Cancelled
 68627965,0,Not Cancelled
@@ -2420,7 +2420,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 94502519,0,Not Cancelled
 4385357,0,Not Cancelled
 96557505,0,Not Cancelled
-19461767,1,Cancelled
+19461767,0,Not Cancelled
 47535626,0,Not Cancelled
 65285406,0,Not Cancelled
 48190646,0,Not Cancelled
@@ -2430,17 +2430,17 @@ Reservation-id,Predicted_Status,Predicted_Label
 72920145,0,Not Cancelled
 89827902,0,Not Cancelled
 56418668,0,Not Cancelled
-83778742,1,Cancelled
+83778742,0,Not Cancelled
 26336774,0,Not Cancelled
 46617747,0,Not Cancelled
-37919284,0,Not Cancelled
-24679238,0,Not Cancelled
+37919284,1,Cancelled
+24679238,1,Cancelled
 95040271,0,Not Cancelled
 3876164,0,Not Cancelled
 99385590,0,Not Cancelled
 72598452,0,Not Cancelled
 38785514,0,Not Cancelled
-8257569,1,Cancelled
+8257569,0,Not Cancelled
 71389331,0,Not Cancelled
 76261387,0,Not Cancelled
 16719556,0,Not Cancelled
@@ -2451,7 +2451,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 5217889,0,Not Cancelled
 95524050,0,Not Cancelled
 36926571,0,Not Cancelled
-71067545,0,Not Cancelled
+71067545,1,Cancelled
 53353292,0,Not Cancelled
 96189027,1,Cancelled
 37164880,0,Not Cancelled
@@ -2486,7 +2486,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 31004904,0,Not Cancelled
 7517295,0,Not Cancelled
 53894059,0,Not Cancelled
-55552644,1,Cancelled
+55552644,0,Not Cancelled
 57420976,0,Not Cancelled
 40399457,0,Not Cancelled
 54607373,0,Not Cancelled
@@ -2532,16 +2532,16 @@ Reservation-id,Predicted_Status,Predicted_Label
 42237261,0,Not Cancelled
 51245683,0,Not Cancelled
 71353816,0,Not Cancelled
-70307748,2,No-Show
+70307748,0,Not Cancelled
 34931226,0,Not Cancelled
-32634125,0,Not Cancelled
+32634125,2,No-Show
 1680848,0,Not Cancelled
 7153963,0,Not Cancelled
 47079899,0,Not Cancelled
 54604267,0,Not Cancelled
 5161606,0,Not Cancelled
 24585612,0,Not Cancelled
-45416884,1,Cancelled
+45416884,0,Not Cancelled
 59234068,0,Not Cancelled
 30671382,0,Not Cancelled
 37913197,0,Not Cancelled
@@ -2588,7 +2588,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 58747197,0,Not Cancelled
 2702381,0,Not Cancelled
 71370007,0,Not Cancelled
-88510220,1,Cancelled
+88510220,0,Not Cancelled
 18890240,0,Not Cancelled
 74665912,0,Not Cancelled
 35787620,0,Not Cancelled
@@ -2649,26 +2649,26 @@ Reservation-id,Predicted_Status,Predicted_Label
 6959951,0,Not Cancelled
 51755164,0,Not Cancelled
 73363323,0,Not Cancelled
-84578425,0,Not Cancelled
+84578425,1,Cancelled
 80382754,0,Not Cancelled
 89084501,0,Not Cancelled
 81274869,0,Not Cancelled
 21226601,0,Not Cancelled
 80068679,0,Not Cancelled
-96777385,0,Not Cancelled
+96777385,1,Cancelled
 8367520,0,Not Cancelled
 58072708,0,Not Cancelled
 13035485,0,Not Cancelled
 75445816,0,Not Cancelled
-36916427,1,Cancelled
-80090733,0,Not Cancelled
+36916427,0,Not Cancelled
+80090733,1,Cancelled
 59199131,0,Not Cancelled
-52596495,1,Cancelled
+52596495,0,Not Cancelled
 9774120,0,Not Cancelled
 81218997,0,Not Cancelled
 63282371,0,Not Cancelled
 59173240,0,Not Cancelled
-186125,0,Not Cancelled
+186125,1,Cancelled
 51595601,0,Not Cancelled
 77569219,0,Not Cancelled
 60531413,0,Not Cancelled
@@ -2702,7 +2702,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 49476623,0,Not Cancelled
 46144044,0,Not Cancelled
 32347516,0,Not Cancelled
-80636028,0,Not Cancelled
+80636028,1,Cancelled
 92497841,0,Not Cancelled
 5184799,0,Not Cancelled
 57614078,0,Not Cancelled
@@ -2722,7 +2722,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 60605373,0,Not Cancelled
 87063273,0,Not Cancelled
 71759766,0,Not Cancelled
-96846708,0,Not Cancelled
+96846708,1,Cancelled
 39233813,0,Not Cancelled
 83398094,0,Not Cancelled
 9655112,0,Not Cancelled
@@ -2733,16 +2733,16 @@ Reservation-id,Predicted_Status,Predicted_Label
 46618816,0,Not Cancelled
 42853926,0,Not Cancelled
 72235675,0,Not Cancelled
-28342372,0,Not Cancelled
+28342372,1,Cancelled
 2815533,0,Not Cancelled
 13062357,0,Not Cancelled
 26212169,0,Not Cancelled
 5912682,0,Not Cancelled
 12734176,0,Not Cancelled
 30148943,0,Not Cancelled
-3194897,1,Cancelled
-73185827,2,No-Show
-9922907,1,Cancelled
+3194897,0,Not Cancelled
+73185827,0,Not Cancelled
+9922907,0,Not Cancelled
 78711892,0,Not Cancelled
 28346453,0,Not Cancelled
 87707894,0,Not Cancelled
@@ -2752,9 +2752,9 @@ Reservation-id,Predicted_Status,Predicted_Label
 59949960,0,Not Cancelled
 64813798,0,Not Cancelled
 31862258,0,Not Cancelled
-61384021,1,Cancelled
+61384021,0,Not Cancelled
 6796948,0,Not Cancelled
-90334379,1,Cancelled
+90334379,0,Not Cancelled
 8269226,0,Not Cancelled
 93140904,0,Not Cancelled
 29696923,0,Not Cancelled
@@ -2766,7 +2766,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 68460999,0,Not Cancelled
 82148753,0,Not Cancelled
 55538956,0,Not Cancelled
-17754537,2,No-Show
+17754537,0,Not Cancelled
 85735467,0,Not Cancelled
 29320052,0,Not Cancelled
 80963163,0,Not Cancelled
@@ -2774,7 +2774,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 15119942,0,Not Cancelled
 91914498,0,Not Cancelled
 88124253,0,Not Cancelled
-24407668,0,Not Cancelled
+24407668,1,Cancelled
 92644147,0,Not Cancelled
 2360207,0,Not Cancelled
 91027552,0,Not Cancelled
@@ -2785,7 +2785,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 2544880,0,Not Cancelled
 95039718,0,Not Cancelled
 48523432,0,Not Cancelled
-18222766,0,Not Cancelled
+18222766,1,Cancelled
 69875909,0,Not Cancelled
 30530030,0,Not Cancelled
 32690721,0,Not Cancelled
@@ -2838,7 +2838,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 49515482,0,Not Cancelled
 57696405,0,Not Cancelled
 26167096,0,Not Cancelled
-87216102,1,Cancelled
+87216102,0,Not Cancelled
 61525705,0,Not Cancelled
 86301234,0,Not Cancelled
 84289038,0,Not Cancelled
@@ -2851,7 +2851,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 47497599,0,Not Cancelled
 2779401,0,Not Cancelled
 36486669,0,Not Cancelled
-54636889,1,Cancelled
+54636889,0,Not Cancelled
 270739,0,Not Cancelled
 84707642,0,Not Cancelled
 26828492,0,Not Cancelled
@@ -2865,7 +2865,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 79025173,0,Not Cancelled
 56199920,0,Not Cancelled
 2419621,0,Not Cancelled
-24375047,1,Cancelled
+24375047,0,Not Cancelled
 78830846,0,Not Cancelled
 57895353,0,Not Cancelled
 98011948,0,Not Cancelled
@@ -2873,7 +2873,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 28337106,0,Not Cancelled
 8538143,0,Not Cancelled
 32578242,0,Not Cancelled
-7089432,0,Not Cancelled
+7089432,1,Cancelled
 54664487,0,Not Cancelled
 58420277,0,Not Cancelled
 14047601,0,Not Cancelled
@@ -2909,7 +2909,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 86478908,0,Not Cancelled
 67482233,0,Not Cancelled
 74894134,0,Not Cancelled
-79084011,2,No-Show
+79084011,0,Not Cancelled
 28424019,0,Not Cancelled
 76778136,0,Not Cancelled
 29303076,0,Not Cancelled
@@ -2945,7 +2945,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 58642627,0,Not Cancelled
 27423966,0,Not Cancelled
 92975959,0,Not Cancelled
-30579318,0,Not Cancelled
+30579318,1,Cancelled
 3274930,0,Not Cancelled
 41768852,0,Not Cancelled
 91337862,0,Not Cancelled
@@ -2955,7 +2955,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 8310017,0,Not Cancelled
 90097684,0,Not Cancelled
 13616301,0,Not Cancelled
-68723071,1,Cancelled
+68723071,0,Not Cancelled
 53999438,0,Not Cancelled
 9957677,0,Not Cancelled
 91882555,0,Not Cancelled
@@ -2998,11 +2998,11 @@ Reservation-id,Predicted_Status,Predicted_Label
 16418699,0,Not Cancelled
 3010614,0,Not Cancelled
 33349350,0,Not Cancelled
-47925466,0,Not Cancelled
+47925466,1,Cancelled
 49777120,0,Not Cancelled
 38347130,0,Not Cancelled
 43313459,0,Not Cancelled
-56691236,0,Not Cancelled
+56691236,1,Cancelled
 41900837,0,Not Cancelled
 8661790,0,Not Cancelled
 81361048,0,Not Cancelled
@@ -3010,11 +3010,11 @@ Reservation-id,Predicted_Status,Predicted_Label
 42823975,0,Not Cancelled
 29184390,0,Not Cancelled
 29593077,0,Not Cancelled
-75579638,1,Cancelled
+75579638,0,Not Cancelled
 48465854,0,Not Cancelled
 84111173,0,Not Cancelled
 92233317,0,Not Cancelled
-58208062,0,Not Cancelled
+58208062,1,Cancelled
 70645370,0,Not Cancelled
 49052791,0,Not Cancelled
 29458063,0,Not Cancelled
@@ -3028,7 +3028,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 75960220,0,Not Cancelled
 5362475,0,Not Cancelled
 51538566,0,Not Cancelled
-4518196,0,Not Cancelled
+4518196,1,Cancelled
 70895504,0,Not Cancelled
 45030976,0,Not Cancelled
 93617561,2,No-Show
@@ -3123,7 +3123,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 52140827,0,Not Cancelled
 99504386,0,Not Cancelled
 32122798,0,Not Cancelled
-94507004,0,Not Cancelled
+94507004,1,Cancelled
 72273997,0,Not Cancelled
 8044746,0,Not Cancelled
 24666943,0,Not Cancelled
@@ -3136,7 +3136,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 42021313,0,Not Cancelled
 33664109,0,Not Cancelled
 7436914,0,Not Cancelled
-29082910,1,Cancelled
+29082910,0,Not Cancelled
 40971164,0,Not Cancelled
 31750933,0,Not Cancelled
 74211924,0,Not Cancelled
@@ -3146,9 +3146,9 @@ Reservation-id,Predicted_Status,Predicted_Label
 8821462,0,Not Cancelled
 46653198,0,Not Cancelled
 60153298,0,Not Cancelled
-76924789,2,No-Show
+76924789,0,Not Cancelled
 51970988,0,Not Cancelled
-90976697,1,Cancelled
+90976697,0,Not Cancelled
 1605307,0,Not Cancelled
 89483523,0,Not Cancelled
 48499597,0,Not Cancelled
@@ -3166,7 +3166,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 16811925,0,Not Cancelled
 90444684,0,Not Cancelled
 21328137,0,Not Cancelled
-55657421,0,Not Cancelled
+55657421,1,Cancelled
 69548174,0,Not Cancelled
 59517535,0,Not Cancelled
 29646730,0,Not Cancelled
@@ -3182,10 +3182,10 @@ Reservation-id,Predicted_Status,Predicted_Label
 96872439,0,Not Cancelled
 60596219,0,Not Cancelled
 78025067,0,Not Cancelled
-50037536,1,Cancelled
+50037536,0,Not Cancelled
 24132975,0,Not Cancelled
 24000268,0,Not Cancelled
-46910023,0,Not Cancelled
+46910023,1,Cancelled
 94529553,0,Not Cancelled
 28097978,0,Not Cancelled
 78172612,0,Not Cancelled
@@ -3193,11 +3193,11 @@ Reservation-id,Predicted_Status,Predicted_Label
 41416231,0,Not Cancelled
 96023233,0,Not Cancelled
 77595169,0,Not Cancelled
-61928075,1,Cancelled
+61928075,0,Not Cancelled
 71376557,0,Not Cancelled
 2046379,0,Not Cancelled
 42892740,0,Not Cancelled
-95159841,0,Not Cancelled
+95159841,1,Cancelled
 68942111,0,Not Cancelled
 14300922,0,Not Cancelled
 38678906,0,Not Cancelled
@@ -3225,7 +3225,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 46694670,0,Not Cancelled
 89737750,0,Not Cancelled
 34953220,0,Not Cancelled
-53742626,0,Not Cancelled
+53742626,1,Cancelled
 73718478,0,Not Cancelled
 28425796,0,Not Cancelled
 77230004,0,Not Cancelled
@@ -3273,7 +3273,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 81143013,0,Not Cancelled
 54395889,0,Not Cancelled
 18489222,0,Not Cancelled
-20435071,1,Cancelled
+20435071,0,Not Cancelled
 12398220,0,Not Cancelled
 41212022,0,Not Cancelled
 32333069,0,Not Cancelled
@@ -3290,7 +3290,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 97540030,0,Not Cancelled
 23452576,0,Not Cancelled
 57635980,0,Not Cancelled
-11556825,0,Not Cancelled
+11556825,1,Cancelled
 37361776,0,Not Cancelled
 90111343,0,Not Cancelled
 11115920,0,Not Cancelled
@@ -3301,17 +3301,17 @@ Reservation-id,Predicted_Status,Predicted_Label
 94396305,0,Not Cancelled
 84982938,0,Not Cancelled
 8508585,0,Not Cancelled
-28036578,0,Not Cancelled
+28036578,1,Cancelled
 32231749,0,Not Cancelled
 99780059,0,Not Cancelled
 5359620,0,Not Cancelled
 59912200,0,Not Cancelled
 20907283,0,Not Cancelled
 83396143,0,Not Cancelled
-32399099,0,Not Cancelled
+32399099,1,Cancelled
 60848898,0,Not Cancelled
 89394532,0,Not Cancelled
-82321085,0,Not Cancelled
+82321085,1,Cancelled
 44045426,0,Not Cancelled
 55559192,2,No-Show
 95672372,0,Not Cancelled
@@ -3322,7 +3322,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 28080051,0,Not Cancelled
 21483726,0,Not Cancelled
 93554846,0,Not Cancelled
-29084390,0,Not Cancelled
+29084390,1,Cancelled
 45575408,0,Not Cancelled
 32348035,0,Not Cancelled
 15284459,0,Not Cancelled
@@ -3421,7 +3421,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 4218270,0,Not Cancelled
 9466328,0,Not Cancelled
 79025791,0,Not Cancelled
-71187328,0,Not Cancelled
+71187328,1,Cancelled
 23312836,0,Not Cancelled
 36715747,0,Not Cancelled
 33879061,0,Not Cancelled
@@ -3486,7 +3486,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 66794149,0,Not Cancelled
 99788805,0,Not Cancelled
 77563290,0,Not Cancelled
-79597646,0,Not Cancelled
+79597646,1,Cancelled
 51413984,0,Not Cancelled
 35156122,0,Not Cancelled
 51808526,0,Not Cancelled
@@ -3497,14 +3497,14 @@ Reservation-id,Predicted_Status,Predicted_Label
 63240558,0,Not Cancelled
 81881111,0,Not Cancelled
 88133496,0,Not Cancelled
-35455640,1,Cancelled
+35455640,0,Not Cancelled
 54755996,0,Not Cancelled
 33080564,0,Not Cancelled
 91606818,0,Not Cancelled
 12513368,0,Not Cancelled
 91065750,0,Not Cancelled
 73254301,0,Not Cancelled
-30370834,1,Cancelled
+30370834,0,Not Cancelled
 70064566,0,Not Cancelled
 49167094,0,Not Cancelled
 21265207,0,Not Cancelled
@@ -3532,7 +3532,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 1943781,0,Not Cancelled
 15949285,0,Not Cancelled
 21018214,0,Not Cancelled
-91848348,1,Cancelled
+91848348,0,Not Cancelled
 36357383,0,Not Cancelled
 93392955,0,Not Cancelled
 68720576,0,Not Cancelled
@@ -3545,7 +3545,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 60903382,0,Not Cancelled
 82835414,0,Not Cancelled
 30226496,0,Not Cancelled
-96368907,0,Not Cancelled
+96368907,1,Cancelled
 3315865,0,Not Cancelled
 78803291,0,Not Cancelled
 43720485,0,Not Cancelled
@@ -3555,20 +3555,20 @@ Reservation-id,Predicted_Status,Predicted_Label
 26062343,0,Not Cancelled
 22859707,0,Not Cancelled
 21117101,0,Not Cancelled
-68605119,0,Not Cancelled
+68605119,1,Cancelled
 86606491,0,Not Cancelled
 42095382,0,Not Cancelled
-88229451,1,Cancelled
-77036161,0,Not Cancelled
+88229451,0,Not Cancelled
+77036161,1,Cancelled
 8112723,0,Not Cancelled
 97510716,0,Not Cancelled
 22022550,0,Not Cancelled
 69339655,0,Not Cancelled
 76349716,0,Not Cancelled
 41752413,0,Not Cancelled
-52184197,0,Not Cancelled
+52184197,1,Cancelled
 69081704,0,Not Cancelled
-90974885,0,Not Cancelled
+90974885,1,Cancelled
 79609213,0,Not Cancelled
 4084538,0,Not Cancelled
 69868771,0,Not Cancelled
@@ -3581,7 +3581,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 78443530,0,Not Cancelled
 601991,0,Not Cancelled
 91153188,0,Not Cancelled
-9325107,0,Not Cancelled
+9325107,1,Cancelled
 74225841,0,Not Cancelled
 11123497,0,Not Cancelled
 65684315,0,Not Cancelled
@@ -3694,7 +3694,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 10189754,0,Not Cancelled
 67528158,0,Not Cancelled
 87725424,0,Not Cancelled
-25764511,0,Not Cancelled
+25764511,2,No-Show
 91619239,0,Not Cancelled
 37487796,0,Not Cancelled
 35974817,0,Not Cancelled
@@ -3713,12 +3713,12 @@ Reservation-id,Predicted_Status,Predicted_Label
 48234016,0,Not Cancelled
 14975639,0,Not Cancelled
 87702988,0,Not Cancelled
-63474607,1,Cancelled
+63474607,0,Not Cancelled
 70182335,0,Not Cancelled
 44250838,0,Not Cancelled
 45771986,0,Not Cancelled
 94745006,0,Not Cancelled
-8750847,0,Not Cancelled
+8750847,1,Cancelled
 86481108,0,Not Cancelled
 15562439,0,Not Cancelled
 14513938,0,Not Cancelled
@@ -3732,7 +3732,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 24360138,0,Not Cancelled
 74953228,0,Not Cancelled
 46154080,0,Not Cancelled
-9832346,1,Cancelled
+9832346,0,Not Cancelled
 67195129,0,Not Cancelled
 32161363,0,Not Cancelled
 65938569,0,Not Cancelled
@@ -3741,7 +3741,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 77772641,0,Not Cancelled
 4375391,0,Not Cancelled
 90657517,0,Not Cancelled
-54100615,1,Cancelled
+54100615,0,Not Cancelled
 56969143,0,Not Cancelled
 75741596,0,Not Cancelled
 41174679,0,Not Cancelled
@@ -3757,12 +3757,12 @@ Reservation-id,Predicted_Status,Predicted_Label
 40302364,0,Not Cancelled
 98866681,0,Not Cancelled
 24007914,0,Not Cancelled
-17918752,1,Cancelled
+17918752,0,Not Cancelled
 66821869,0,Not Cancelled
 60224010,0,Not Cancelled
 17682658,0,Not Cancelled
 58490124,0,Not Cancelled
-1555072,0,Not Cancelled
+1555072,1,Cancelled
 12589360,0,Not Cancelled
 85974855,0,Not Cancelled
 21627230,0,Not Cancelled
@@ -3782,8 +3782,8 @@ Reservation-id,Predicted_Status,Predicted_Label
 95446220,0,Not Cancelled
 74293588,0,Not Cancelled
 94529955,0,Not Cancelled
-58798033,1,Cancelled
-63865731,0,Not Cancelled
+58798033,0,Not Cancelled
+63865731,1,Cancelled
 91284312,0,Not Cancelled
 23299874,0,Not Cancelled
 83322822,0,Not Cancelled
@@ -3799,9 +3799,9 @@ Reservation-id,Predicted_Status,Predicted_Label
 74419226,0,Not Cancelled
 77705844,0,Not Cancelled
 32676822,0,Not Cancelled
-23129452,0,Not Cancelled
+23129452,1,Cancelled
 8692720,0,Not Cancelled
-59872516,0,Not Cancelled
+59872516,1,Cancelled
 16942238,0,Not Cancelled
 79544507,0,Not Cancelled
 15983429,0,Not Cancelled
@@ -3813,7 +3813,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 86302552,0,Not Cancelled
 81174351,0,Not Cancelled
 34237764,0,Not Cancelled
-98544207,0,Not Cancelled
+98544207,1,Cancelled
 97535904,0,Not Cancelled
 31000175,0,Not Cancelled
 66931336,0,Not Cancelled
@@ -3830,14 +3830,14 @@ Reservation-id,Predicted_Status,Predicted_Label
 36934613,0,Not Cancelled
 35191970,0,Not Cancelled
 88607875,0,Not Cancelled
-57815204,0,Not Cancelled
+57815204,1,Cancelled
 62696039,0,Not Cancelled
 30118505,0,Not Cancelled
 81148572,0,Not Cancelled
 56176771,0,Not Cancelled
 74247749,0,Not Cancelled
 46895031,0,Not Cancelled
-97889068,1,Cancelled
+97889068,0,Not Cancelled
 10812243,0,Not Cancelled
 14039467,0,Not Cancelled
 66678320,0,Not Cancelled
@@ -3846,10 +3846,10 @@ Reservation-id,Predicted_Status,Predicted_Label
 88153458,0,Not Cancelled
 77586745,0,Not Cancelled
 48135661,0,Not Cancelled
-84970817,1,Cancelled
+84970817,0,Not Cancelled
 52577695,0,Not Cancelled
 24140636,0,Not Cancelled
-71536623,0,Not Cancelled
+71536623,1,Cancelled
 2799133,0,Not Cancelled
 9610536,0,Not Cancelled
 36798291,0,Not Cancelled
@@ -3881,7 +3881,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 8676478,0,Not Cancelled
 45910206,0,Not Cancelled
 12303537,0,Not Cancelled
-15788948,0,Not Cancelled
+15788948,1,Cancelled
 26885156,0,Not Cancelled
 69893964,0,Not Cancelled
 12903539,0,Not Cancelled
@@ -3901,7 +3901,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 44502182,0,Not Cancelled
 70638927,0,Not Cancelled
 35708047,0,Not Cancelled
-1170383,1,Cancelled
+1170383,0,Not Cancelled
 77899270,0,Not Cancelled
 40843503,0,Not Cancelled
 62026691,0,Not Cancelled
@@ -3919,7 +3919,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 35282149,0,Not Cancelled
 56974171,0,Not Cancelled
 88887441,0,Not Cancelled
-25682177,1,Cancelled
+25682177,0,Not Cancelled
 87277430,0,Not Cancelled
 77219808,0,Not Cancelled
 40486108,0,Not Cancelled
@@ -3936,7 +3936,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 5922414,0,Not Cancelled
 52289043,0,Not Cancelled
 92845410,0,Not Cancelled
-41077345,0,Not Cancelled
+41077345,1,Cancelled
 88420049,0,Not Cancelled
 9415719,0,Not Cancelled
 31928314,0,Not Cancelled
@@ -3973,13 +3973,13 @@ Reservation-id,Predicted_Status,Predicted_Label
 599214,0,Not Cancelled
 72504909,0,Not Cancelled
 59482929,0,Not Cancelled
-77732096,1,Cancelled
-70164529,0,Not Cancelled
+77732096,0,Not Cancelled
+70164529,2,No-Show
 84358496,0,Not Cancelled
 97734194,0,Not Cancelled
 40184631,0,Not Cancelled
 26483968,0,Not Cancelled
-24599069,0,Not Cancelled
+24599069,2,No-Show
 60520197,0,Not Cancelled
 57904332,0,Not Cancelled
 24226353,0,Not Cancelled
@@ -4001,7 +4001,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 19945229,0,Not Cancelled
 85484083,0,Not Cancelled
 57389023,0,Not Cancelled
-25701353,0,Not Cancelled
+25701353,1,Cancelled
 13024554,0,Not Cancelled
 40023315,0,Not Cancelled
 42514040,0,Not Cancelled
@@ -4011,7 +4011,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 59792563,0,Not Cancelled
 54213805,0,Not Cancelled
 60849144,0,Not Cancelled
-25466810,1,Cancelled
+25466810,0,Not Cancelled
 35339650,0,Not Cancelled
 16106254,1,Cancelled
 42692820,0,Not Cancelled
@@ -4026,23 +4026,23 @@ Reservation-id,Predicted_Status,Predicted_Label
 75657101,0,Not Cancelled
 41548858,0,Not Cancelled
 70627269,0,Not Cancelled
-65601723,1,Cancelled
+65601723,0,Not Cancelled
 24961883,0,Not Cancelled
 19349186,0,Not Cancelled
 50437405,0,Not Cancelled
 14057680,0,Not Cancelled
 26683479,0,Not Cancelled
 26973950,0,Not Cancelled
-29006412,0,Not Cancelled
+29006412,1,Cancelled
 46285920,0,Not Cancelled
 17880925,0,Not Cancelled
 13892749,0,Not Cancelled
 74971618,1,Cancelled
 13640099,0,Not Cancelled
-6964297,1,Cancelled
+6964297,0,Not Cancelled
 2748409,0,Not Cancelled
 17288153,0,Not Cancelled
-98209447,0,Not Cancelled
+98209447,1,Cancelled
 91889766,0,Not Cancelled
 99656767,0,Not Cancelled
 5375362,0,Not Cancelled
@@ -4063,7 +4063,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 78436081,0,Not Cancelled
 56146153,0,Not Cancelled
 98454933,0,Not Cancelled
-34694521,0,Not Cancelled
+34694521,1,Cancelled
 98201214,0,Not Cancelled
 15829463,0,Not Cancelled
 13272507,0,Not Cancelled
@@ -4072,7 +4072,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 62730924,0,Not Cancelled
 94560080,0,Not Cancelled
 50005999,0,Not Cancelled
-32325645,0,Not Cancelled
+32325645,1,Cancelled
 50171942,0,Not Cancelled
 35443354,0,Not Cancelled
 35270811,0,Not Cancelled
@@ -4095,7 +4095,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 1810553,0,Not Cancelled
 53047613,0,Not Cancelled
 48607136,0,Not Cancelled
-73331087,1,Cancelled
+73331087,0,Not Cancelled
 24183909,0,Not Cancelled
 41152853,0,Not Cancelled
 24604581,0,Not Cancelled
@@ -4113,7 +4113,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 74758107,0,Not Cancelled
 68976923,0,Not Cancelled
 93124907,0,Not Cancelled
-91419848,2,No-Show
+91419848,0,Not Cancelled
 56031245,0,Not Cancelled
 84006113,0,Not Cancelled
 13662184,0,Not Cancelled
@@ -4127,13 +4127,13 @@ Reservation-id,Predicted_Status,Predicted_Label
 69378215,0,Not Cancelled
 85352780,0,Not Cancelled
 31526436,0,Not Cancelled
-42095357,0,Not Cancelled
+42095357,1,Cancelled
 89633217,0,Not Cancelled
 22749051,0,Not Cancelled
 25004977,0,Not Cancelled
 44480495,0,Not Cancelled
 2188279,0,Not Cancelled
-40954540,0,Not Cancelled
+40954540,1,Cancelled
 85338934,0,Not Cancelled
 53041063,0,Not Cancelled
 63757474,0,Not Cancelled
@@ -4153,7 +4153,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 71558209,0,Not Cancelled
 5044049,0,Not Cancelled
 46682599,0,Not Cancelled
-35918456,0,Not Cancelled
+35918456,1,Cancelled
 3579474,0,Not Cancelled
 44420917,0,Not Cancelled
 99813528,0,Not Cancelled
@@ -4171,7 +4171,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 21909264,0,Not Cancelled
 99862908,0,Not Cancelled
 76710382,0,Not Cancelled
-52268167,0,Not Cancelled
+52268167,1,Cancelled
 16474252,0,Not Cancelled
 70690714,0,Not Cancelled
 30017615,0,Not Cancelled
@@ -4202,7 +4202,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 89738311,0,Not Cancelled
 30027962,0,Not Cancelled
 91731808,0,Not Cancelled
-89947218,0,Not Cancelled
+89947218,1,Cancelled
 58113980,0,Not Cancelled
 6854770,0,Not Cancelled
 53201358,0,Not Cancelled
@@ -4222,11 +4222,11 @@ Reservation-id,Predicted_Status,Predicted_Label
 49783235,0,Not Cancelled
 68485953,0,Not Cancelled
 93597251,0,Not Cancelled
-33298030,1,Cancelled
+33298030,0,Not Cancelled
 3494446,0,Not Cancelled
 94804906,0,Not Cancelled
-61270823,1,Cancelled
-5007859,2,No-Show
+61270823,0,Not Cancelled
+5007859,0,Not Cancelled
 8010241,0,Not Cancelled
 62481790,0,Not Cancelled
 22835093,0,Not Cancelled
@@ -4239,7 +4239,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 42690957,0,Not Cancelled
 4149049,0,Not Cancelled
 33385493,0,Not Cancelled
-25770218,1,Cancelled
+25770218,0,Not Cancelled
 95240894,0,Not Cancelled
 8595533,0,Not Cancelled
 85468719,0,Not Cancelled
@@ -4271,7 +4271,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 79607508,0,Not Cancelled
 47488440,0,Not Cancelled
 10867215,0,Not Cancelled
-39613499,0,Not Cancelled
+39613499,1,Cancelled
 18450757,0,Not Cancelled
 12759662,0,Not Cancelled
 69922907,0,Not Cancelled
@@ -4289,7 +4289,7 @@ Reservation-id,Predicted_Status,Predicted_Label
 80676221,0,Not Cancelled
 34835499,0,Not Cancelled
 57227609,0,Not Cancelled
-21837670,1,Cancelled
+21837670,0,Not Cancelled
 61046063,0,Not Cancelled
 33513356,0,Not Cancelled
 74078683,0,Not Cancelled
@@ -4307,13 +4307,13 @@ Reservation-id,Predicted_Status,Predicted_Label
 29220509,0,Not Cancelled
 26722895,0,Not Cancelled
 38025635,0,Not Cancelled
-92007217,1,Cancelled
+92007217,0,Not Cancelled
 78675278,0,Not Cancelled
-25628403,2,No-Show
+25628403,0,Not Cancelled
 95629724,0,Not Cancelled
 28120091,0,Not Cancelled
-39110574,1,Cancelled
+39110574,0,Not Cancelled
 5496554,0,Not Cancelled
 59004046,0,Not Cancelled
 65838682,0,Not Cancelled
-14474101,0,Not Cancelled
+14474101,1,Cancelled
